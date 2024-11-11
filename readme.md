@@ -7,6 +7,11 @@ Welcome to my GitHub profile! I'm a **Full Stack** developer passionate about bu
 <br>
 💻 I’m passionate about building dynamic, high-performance web applications and exploring new technologies.
 
+## My Goals 🎯
+
+- 🚀 **Improve my skills**: My goal is to further improve the technologies I have learned by building projects, starting from simple ones to more complex applications.
+- 💼 **Internship Opportunity**: In the near future, I am looking for an internship where I can join a development team and gain hands-on experience in web development.
+
 ## Technologies and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
