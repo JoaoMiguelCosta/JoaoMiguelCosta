@@ -36,3 +36,10 @@ A RESTful API for a web platform that allows users to discover and watch movie t
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joão-miguel-costa1)
 - 📧 [Email](mailto:joaoxxmiguel@hotmail.com)
+
+## Hobbies and Interests 🌍
+
+In my free time, I enjoy:
+- 📚 **Reading**: I love reading books, especially on technology, business, and personal development.
+- 🎾 **Sports Enthusiast**: I'm passionate about sports, from tennis to swimming, always looking for new challenges and ways to stay active.
+- ✈️ **Traveling & Exploring New Cultures**: I enjoy traveling and experiencing different cultures. Every new destination is an opportunity to learn and grow.
