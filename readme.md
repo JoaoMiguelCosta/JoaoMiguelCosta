@@ -31,3 +31,8 @@ A portfolio application developed in **React** and **Vite**, with responsive des
 ### 2. **[Movie Trailer Rating API](https://github.com/JoaoMiguelCosta/Backend)**
 A RESTful API for a web platform that allows users to discover and watch movie trailers, with authentication and role-based access control.
 - **Technologies used**: TypeScript, Express, MongoDB, JWT (JSON Web Token), Bcrypt, CORS.
+
+## Where to Find Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/joão-miguel-costa1)
+- 📧 [Email](mailto:joaoxxmiguel@hotmail.com)
