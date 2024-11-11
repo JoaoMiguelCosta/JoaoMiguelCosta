@@ -37,6 +37,10 @@ A portfolio application developed in **React** and **Vite**, with responsive des
 A RESTful API for a web platform that allows users to discover and watch movie trailers, with authentication and role-based access control.
 - **Technologies used**: TypeScript, Express, MongoDB, JWT (JSON Web Token), Bcrypt, CORS.
 
+### 3. **[Mini Projects with JavaScript](https://github.com/JoaoMiguelCosta/JavaScript)**
+A collection of small JavaScript projects created during my Fullstack formation, demonstrating basic and intermediate JavaScript concepts.
+- **Technologies used**: JavaScript (Vanilla), DOM Manipulation, Event Handling, Closures, ES6+ features.
+
 ## Where to Find Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joão-miguel-costa1)
