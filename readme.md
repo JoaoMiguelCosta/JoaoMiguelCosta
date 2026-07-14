@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/JoaoMiguelCosta/joao-costa-portfolio">
-    <img src="https://img.shields.io/badge/Portefólio_no_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portefólio no GitHub">
+    <img src="https://img.shields.io/badge/Ver_Portef%C3%B3lio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver portefólio">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -21,8 +21,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Aveiro-Portugal-059669?style=flat-square" alt="Aveiro, Portugal">
-  <img src="https://img.shields.io/badge/Disponível-Frontend_%7C_Full--Stack_%7C_Freelance-7C3AED?style=flat-square" alt="Disponível para oportunidades profissionais e projetos freelance">
+  📍 Aveiro, Portugal
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💼 Disponível para oportunidades profissionais e projetos freelance
 </p>
 
 </div>
@@ -129,10 +130,10 @@ Plataforma Full-Stack desenvolvida para gerir processos entre uma farmácia, uma
 
 <p>
   <a href="https://github.com/JoaoMiguelCosta/farmacia-santa-casa-app">
-    <img src="https://img.shields.io/badge/Ver_código-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código no GitHub">
+    <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código no GitHub">
   </a>
   <a href="https://farmacia-santacasa-frontend-staging.onrender.com/">
-    <img src="https://img.shields.io/badge/Ver_aplicação-2563EB?style=for-the-badge&logo=render&logoColor=white" alt="Ver aplicação">
+    <img src="https://img.shields.io/badge/Ver_aplica%C3%A7%C3%A3o-2563EB?style=for-the-badge&logo=render&logoColor=white" alt="Ver aplicação">
   </a>
 </p>
 
@@ -161,7 +162,7 @@ Plataforma institucional multi-brand desenvolvida para representar diferentes ma
 
 <p>
   <a href="https://github.com/JoaoMiguelCosta/Sunlive-Group">
-    <img src="https://img.shields.io/badge/Ver_código-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código no GitHub">
+    <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código no GitHub">
   </a>
 </p>
 
@@ -241,7 +242,7 @@ Estou disponível para **oportunidades profissionais** e **projetos freelance** 
 
 <p>
   <a href="https://github.com/JoaoMiguelCosta/joao-costa-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio_on_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio on GitHub">
+    <img src="https://img.shields.io/badge/View_Portfolio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -252,8 +253,9 @@ Estou disponível para **oportunidades profissionais** e **projetos freelance** 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Aveiro-Portugal-059669?style=flat-square" alt="Aveiro, Portugal">
-  <img src="https://img.shields.io/badge/Available-Frontend_%7C_Full--Stack_%7C_Freelance-7C3AED?style=flat-square" alt="Available for job opportunities and freelance projects">
+  📍 Aveiro, Portugal
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💼 Available for job opportunities and freelance projects
 </p>
 
 </div>
