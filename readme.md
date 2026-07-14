@@ -1,48 +1,44 @@
-<p align="center">
-  <a href="#português">Português</a>
-  ·
-  <a href="#english">English</a>
-</p>
-
----
-
-<a id="português"></a>
-
 <div align="center">
 
 # João Costa
 
 ### Programador Web Full-Stack
 
-Desenvolvo websites e aplicações web com foco em necessidades reais de negócio.
+Desenvolvo websites e aplicações web orientados a necessidades reais de negócio.
 
+[Portefólio](https://github.com/JoaoMiguelCosta/joao-costa-portfolio)
+·
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/)
 ·
 [Email](mailto:joaoxxmiguel@hotmail.com)
-·
-[Portefólio](https://github.com/JoaoMiguelCosta/joao-costa-portfolio)
+
+📍 Aveiro, Portugal
 
 </div>
 
+---
+
 ## Sobre mim
 
-Sou Programador Web Full-Stack, a trabalhar como freelancer desde janeiro de 2025.
+Sou **Programador Web Full-Stack**, a trabalhar como freelancer desde janeiro de 2025.
 
-Acompanho todo o ciclo de desenvolvimento dos projetos:
+Acompanho o ciclo completo de desenvolvimento dos projetos, desde o levantamento de requisitos até à publicação, manutenção e suporte.
 
-- Levantamento de requisitos
-- Planeamento e estruturação
+Tenho experiência prática em:
+
 - Desenvolvimento frontend e backend
+- Construção de APIs REST
 - Modelação e gestão de bases de dados
+- Autenticação e controlo de acessos
 - Testes e validação
-- Publicação e configuração de ambientes
-- Manutenção e suporte
+- Deploy e configuração de ambientes
+- Manutenção de aplicações em produção
 
-Tenho experiência no desenvolvimento de plataformas de gestão, websites institucionais e páginas para negócios e eventos reais.
+Tenho desenvolvido plataformas de gestão, websites institucionais e páginas para negócios e eventos reais.
 
-Procuro integrar uma equipa onde possa aplicar esta experiência, continuar a evoluir tecnicamente e contribuir para produtos com impacto real.
+Procuro integrar uma equipa onde possa aplicar esta experiência, evoluir tecnicamente e contribuir para produtos com impacto real.
 
-📍 Aveiro, Portugal
+---
 
 ## Tecnologias
 
@@ -81,6 +77,9 @@ Procuro integrar uma equipa onde possa aplicar esta experiência, continuar a ev
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss)
+![Claude Code](https://img.shields.io/badge/Claude_Code-20232A?style=flat-square&logo=anthropic)
+
+---
 
 ## Projetos em destaque
 
@@ -88,12 +87,12 @@ Procuro integrar uma equipa onde possa aplicar esta experiência, continuar a ev
 
 Plataforma Full-Stack desenvolvida para gerir processos entre uma farmácia, uma Santa Casa e a administração do sistema.
 
-Principais funcionalidades:
+#### Funcionalidades principais
 
-- Autenticação e autorização através de JWT
+- Autenticação através de JWT
 - Controlo de acessos por função
 - Gestão de utentes
-- Gestão de receitas e medicamentos
+- Gestão de receitas
 - Pedidos entre entidades
 - Regularizações e validações
 - Histórico de operações
@@ -102,7 +101,7 @@ Principais funcionalidades:
 - Tarefas automáticas agendadas
 - Testes de integração
 
-**Tecnologias:** React, Vite, CSS Modules, Node.js, Express, Prisma, PostgreSQL, Vitest, GitHub Actions e Render.
+**Stack:** React, Vite, CSS Modules, Node.js, Express, Prisma, PostgreSQL, Vitest, GitHub Actions e Render.
 
 [Ver código](https://github.com/JoaoMiguelCosta/farmacia-santa-casa-app)
 ·
@@ -114,20 +113,20 @@ Principais funcionalidades:
 
 Plataforma institucional multi-brand desenvolvida para representar diferentes marcas e áreas de negócio do grupo Sunlive.
 
-O projeto inclui:
+#### Características principais
 
 - Diferentes páginas e identidades visuais
 - Arquitetura baseada em componentes reutilizáveis
-- Rotas próprias para as diferentes marcas
+- Rotas próprias para diferentes marcas
 - Componentes e layouts partilhados
 - Isolamento visual por marca
 - Internacionalização
 - Lazy loading
-- Navegação por âncoras
+- Navegação através de âncoras
 - Design responsivo
 - Deploy através da Vercel
 
-**Tecnologias:** React, Vite, React Router, CSS Modules, JavaScript, ESLint e Vercel.
+**Stack:** React, Vite, React Router, CSS Modules, JavaScript, ESLint e Vercel.
 
 [Ver código](https://github.com/JoaoMiguelCosta/Sunlive-Group)
 
@@ -135,9 +134,9 @@ O projeto inclui:
 
 ### Ria Canal Hair Design
 
-Website institucional desenvolvido para um negócio local, publicado num domínio próprio.
+Website institucional desenvolvido para um negócio local e publicado num domínio próprio.
 
-**Tecnologias:** React, Vite, JavaScript e CSS.
+**Stack:** React, Vite, JavaScript e CSS.
 
 [Ver código](https://github.com/JoaoMiguelCosta/RiaCanalHairDesign)
 ·
@@ -147,7 +146,7 @@ Website institucional desenvolvido para um negócio local, publicado num domíni
 
 ### WAG Training Camp Sunlive
 
-Website publicado para divulgação do WAG Training Camp organizado pela Sunlive.
+Website desenvolvido e publicado para apresentação e divulgação do WAG Training Camp.
 
 [Ver código](https://github.com/JoaoMiguelCosta/wag-training-camp-sunlive)
 ·
@@ -157,19 +156,13 @@ Website publicado para divulgação do WAG Training Camp organizado pela Sunlive
 
 ### Continental Cup Sunlive
 
-Website publicado para divulgação da Continental Cup organizada pela Sunlive.
+Website desenvolvido e publicado para apresentação e divulgação da Continental Cup.
 
 [Ver código](https://github.com/JoaoMiguelCosta/continental-cup-sunlive)
 ·
 [Visitar website](https://continentalcup.sunlive.pt/)
 
-## Portefólio
-
-No meu portefólio podes consultar os meus principais projetos, competências, experiência e percurso profissional.
-
-[Ver repositório do portefólio](https://github.com/JoaoMiguelCosta/joao-costa-portfolio)
-
-> O endereço do portefólio será atualizado quando o domínio próprio estiver disponível.
+---
 
 ## Formação
 
@@ -179,20 +172,25 @@ No meu portefólio podes consultar os meus principais projetos, competências, e
 
 Formação concluída com média final de **15/20**.
 
-## Experiência anterior
+---
 
-Antes de trabalhar como programador, servi durante aproximadamente seis anos na Marinha Portuguesa.
+## Experiência profissional anterior
 
-Esta experiência ajudou-me a desenvolver competências importantes para o trabalho em equipa, como:
+Antes de trabalhar como programador, servi durante aproximadamente seis anos na **Marinha Portuguesa**, integrando a equipa de navegação do N.R.P. Sagres.
+
+Esta experiência permitiu-me desenvolver competências importantes para o trabalho profissional:
 
 - Responsabilidade
 - Disciplina
 - Comunicação
-- Adaptação
+- Trabalho em equipa
+- Capacidade de adaptação
 - Resolução de problemas
 - Trabalho sob pressão
 
-## Contacto
+---
+
+## Oportunidades
 
 Estou disponível para oportunidades como:
 
@@ -200,15 +198,20 @@ Estou disponível para oportunidades como:
 - Full-Stack Web Developer
 - Junior Web Developer
 
-📧 [joaoxxmiguel@hotmail.com](mailto:joaoxxmiguel@hotmail.com)
+### Contacto
 
-💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/)
-
-🌐 [GitHub](https://github.com/JoaoMiguelCosta)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/)
+·
+[Email](mailto:joaoxxmiguel@hotmail.com)
+·
+[GitHub](https://github.com/JoaoMiguelCosta)
 
 ---
 
-<a id="english"></a>
+<details>
+<summary><strong>English version</strong></summary>
+
+<br>
 
 <div align="center">
 
@@ -216,35 +219,41 @@ Estou disponível para oportunidades como:
 
 ### Full-Stack Web Developer
 
-I build websites and web applications focused on real business requirements.
+I develop websites and web applications focused on real business requirements.
 
+[Portfolio](https://github.com/JoaoMiguelCosta/joao-costa-portfolio)
+·
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/)
 ·
 [Email](mailto:joaoxxmiguel@hotmail.com)
-·
-[Portfolio](https://github.com/JoaoMiguelCosta/joao-costa-portfolio)
+
+📍 Aveiro, Portugal
 
 </div>
 
+---
+
 ## About me
 
-I am a Full-Stack Web Developer working as a freelancer since January 2025.
+I am a **Full-Stack Web Developer**, working as a freelancer since January 2025.
 
-I handle the complete development lifecycle of my projects:
+I handle the complete development lifecycle of my projects, from requirements gathering to deployment, maintenance and support.
 
-- Requirements gathering
-- Planning and architecture
+I have practical experience in:
+
 - Frontend and backend development
+- REST API development
 - Database modelling and management
+- Authentication and access control
 - Testing and validation
 - Deployment and environment configuration
-- Maintenance and support
+- Maintenance of production applications
 
-I have practical experience building management platforms, institutional websites and websites for real businesses and events.
+I have developed management platforms, institutional websites and websites for real businesses and events.
 
 I am looking to join a team where I can apply this experience, continue improving my technical skills and contribute to products with real impact.
 
-📍 Aveiro, Portugal
+---
 
 ## Technologies
 
@@ -283,6 +292,9 @@ I am looking to join a team where I can apply this experience, continue improvin
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss)
+![Claude Code](https://img.shields.io/badge/Claude_Code-20232A?style=flat-square&logo=anthropic)
+
+---
 
 ## Featured projects
 
@@ -290,12 +302,12 @@ I am looking to join a team where I can apply this experience, continue improvin
 
 A Full-Stack platform developed to manage processes between a pharmacy, a charitable institution and the system administration team.
 
-Main features:
+#### Main features
 
-- JWT authentication and authorisation
+- JWT authentication
 - Role-based access control
 - Patient management
-- Prescription and medication management
+- Prescription management
 - Requests between organisations
 - Validations and regularisations
 - Operation history
@@ -304,7 +316,7 @@ Main features:
 - Scheduled automated tasks
 - Integration tests
 
-**Technologies:** React, Vite, CSS Modules, Node.js, Express, Prisma, PostgreSQL, Vitest, GitHub Actions and Render.
+**Stack:** React, Vite, CSS Modules, Node.js, Express, Prisma, PostgreSQL, Vitest, GitHub Actions and Render.
 
 [View source code](https://github.com/JoaoMiguelCosta/farmacia-santa-casa-app)
 ·
@@ -316,7 +328,7 @@ Main features:
 
 A multi-brand institutional platform developed to represent the different brands and business areas of the Sunlive Group.
 
-The project includes:
+#### Main characteristics
 
 - Multiple pages and visual identities
 - Reusable component architecture
@@ -329,7 +341,7 @@ The project includes:
 - Responsive design
 - Deployment through Vercel
 
-**Technologies:** React, Vite, React Router, CSS Modules, JavaScript, ESLint and Vercel.
+**Stack:** React, Vite, React Router, CSS Modules, JavaScript, ESLint and Vercel.
 
 [View source code](https://github.com/JoaoMiguelCosta/Sunlive-Group)
 
@@ -339,7 +351,7 @@ The project includes:
 
 An institutional website developed for a local business and published under its own domain.
 
-**Technologies:** React, Vite, JavaScript and CSS.
+**Stack:** React, Vite, JavaScript and CSS.
 
 [View source code](https://github.com/JoaoMiguelCosta/RiaCanalHairDesign)
 ·
@@ -349,7 +361,7 @@ An institutional website developed for a local business and published under its 
 
 ### WAG Training Camp Sunlive
 
-A published website developed to promote the WAG Training Camp organised by Sunlive.
+A website developed and published to present and promote the WAG Training Camp.
 
 [View source code](https://github.com/JoaoMiguelCosta/wag-training-camp-sunlive)
 ·
@@ -359,19 +371,13 @@ A published website developed to promote the WAG Training Camp organised by Sunl
 
 ### Continental Cup Sunlive
 
-A published website developed to promote the Continental Cup organised by Sunlive.
+A website developed and published to present and promote the Continental Cup.
 
 [View source code](https://github.com/JoaoMiguelCosta/continental-cup-sunlive)
 ·
 [Visit website](https://continentalcup.sunlive.pt/)
 
-## Portfolio
-
-My portfolio presents my main projects, technical skills, professional experience and background.
-
-[View portfolio repository](https://github.com/JoaoMiguelCosta/joao-costa-portfolio)
-
-> The portfolio link will be updated when the custom domain is available.
+---
 
 ## Education
 
@@ -381,20 +387,25 @@ My portfolio presents my main projects, technical skills, professional experienc
 
 Completed with a final grade of **15/20**.
 
-## Previous experience
+---
 
-Before becoming a developer, I served for approximately six years in the Portuguese Navy.
+## Previous professional experience
 
-This experience helped me develop important teamwork skills, including:
+Before becoming a developer, I served for approximately six years in the **Portuguese Navy**, as part of the navigation team aboard the N.R.P. Sagres.
+
+This experience helped me develop important professional skills:
 
 - Responsibility
 - Discipline
 - Communication
+- Teamwork
 - Adaptability
 - Problem-solving
 - Working under pressure
 
-## Contact
+---
+
+## Opportunities
 
 I am available for opportunities as a:
 
@@ -402,8 +413,12 @@ I am available for opportunities as a:
 - Full-Stack Web Developer
 - Junior Web Developer
 
-📧 [joaoxxmiguel@hotmail.com](mailto:joaoxxmiguel@hotmail.com)
+### Contact
 
-💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/)
+·
+[Email](mailto:joaoxxmiguel@hotmail.com)
+·
+[GitHub](https://github.com/JoaoMiguelCosta)
 
-🌐 [GitHub](https://github.com/JoaoMiguelCosta)
+</details>
