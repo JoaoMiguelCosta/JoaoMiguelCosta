@@ -1,10 +1,10 @@
 <div align="center">
 
-João Costa
-Programador Web Full-Stack
-<p>
-  Desenvolvo websites e aplicações web orientados a necessidades reais de negócio.
-</p>
+<h1>João Costa</h1>
+
+<h3>Programador Web Full-Stack</h3>
+
+<p>Desenvolvo websites e aplicações web orientados a necessidades reais de negócio.</p>
 
 <p>
   <a href="https://joaomiguelcosta.pt/">
@@ -26,22 +26,37 @@ Programador Web Full-Stack
 
 </div>
 
-👨‍💻 Sobre mim
-Sou Programador Web Full-Stack, a trabalhar como freelancer desde janeiro de 2025.
-Desenvolvo websites e aplicações web, acompanhando o ciclo completo dos projetos:
-- Levantamento de requisitos
-- Planeamento e estruturação
-- Desenvolvimento frontend e backend
-- Modelação e gestão de bases de dados
-- Construção e integração de APIs REST
-- Testes e validação
-- Publicação e configuração de ambientes
-- Manutenção e suporte
-Tenho experiência prática no desenvolvimento de plataformas de gestão, websites institucionais e páginas para negócios e eventos reais.
-Procuro integrar uma equipa onde possa aplicar esta experiência, continuar a evoluir tecnicamente e contribuir para produtos com impacto real.
-Também estou disponível para colaborar em projetos freelance, desde websites institucionais até aplicações web completas.
-🛠️ Tecnologias
-Frontend
+<hr>
+
+<h2>👨‍💻 Sobre mim</h2>
+
+<p>Sou <strong>Programador Web Full-Stack</strong>, a trabalhar como freelancer desde janeiro de 2025.</p>
+
+<p>Desenvolvo websites e aplicações web, acompanhando o ciclo completo dos projetos:</p>
+
+<ul>
+  <li>Levantamento de requisitos</li>
+  <li>Planeamento e estruturação</li>
+  <li>Desenvolvimento frontend e backend</li>
+  <li>Modelação e gestão de bases de dados</li>
+  <li>Construção e integração de APIs REST</li>
+  <li>Testes e validação</li>
+  <li>Publicação e configuração de ambientes</li>
+  <li>Manutenção e suporte</li>
+</ul>
+
+<p>Tenho experiência prática no desenvolvimento de plataformas de gestão, websites institucionais e páginas para negócios e eventos reais.</p>
+
+<p>Procuro integrar uma equipa onde possa aplicar esta experiência, continuar a evoluir tecnicamente e contribuir para produtos com impacto real.</p>
+
+<p>Também estou disponível para colaborar em <strong>projetos freelance</strong>, desde websites institucionais até aplicações web completas.</p>
+
+<hr>
+
+<h2>🛠️ Tecnologias</h2>
+
+<h3>Frontend</h3>
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
@@ -51,21 +66,24 @@ Frontend
   <img src="https://img.shields.io/badge/CSS_Modules-111827?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules">
 </p>
 
-Backend
+<h3>Backend</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" alt="REST API">
 </p>
 
-Bases de dados
+<h3>Bases de dados</h3>
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
 </p>
 
-Qualidade, testes e entrega
+<h3>Qualidade, testes e entrega</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -75,7 +93,8 @@ Qualidade, testes e entrega
   <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render">
 </p>
 
-Em aprendizagem e evolução
+<h3>Em aprendizagem e evolução</h3>
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -83,23 +102,45 @@ Em aprendizagem e evolução
   <img src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code">
 </p>
 
-🚀 Projetos em destaque
-Farmácia Santa Casa
-Plataforma Full-Stack desenvolvida para gerir processos entre uma farmácia, uma Santa Casa e a administração do sistema.
-Principais funcionalidades
-- Autenticação através de JWT
-- Controlo de acessos por função
-- Gestão de utentes e receitas
-- Pedidos entre entidades
-- Validações e regularizações
-- Histórico de operações
-- Sistema de alertas
-- Gestão de utilizadores
-- Tarefas automáticas agendadas
-- Testes de integração
-- Integração contínua com GitHub Actions
-Stack
-React Vite CSS Modules Node.js Express Prisma PostgreSQL Vitest GitHub Actions Render
+<hr>
+
+<h2>🚀 Projetos em destaque</h2>
+
+<h3>Farmácia Santa Casa</h3>
+
+<p>Plataforma Full-Stack desenvolvida para gerir processos entre uma farmácia, uma Santa Casa e a administração do sistema.</p>
+
+<h4>Principais funcionalidades</h4>
+
+<ul>
+  <li>Autenticação através de JWT</li>
+  <li>Controlo de acessos por função</li>
+  <li>Gestão de utentes e receitas</li>
+  <li>Pedidos entre entidades</li>
+  <li>Validações e regularizações</li>
+  <li>Histórico de operações</li>
+  <li>Sistema de alertas</li>
+  <li>Gestão de utilizadores</li>
+  <li>Tarefas automáticas agendadas</li>
+  <li>Testes de integração</li>
+  <li>Integração contínua com GitHub Actions</li>
+</ul>
+
+<h4>Stack</h4>
+
+<p>
+  <code>React</code>
+  <code>Vite</code>
+  <code>CSS Modules</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>Prisma</code>
+  <code>PostgreSQL</code>
+  <code>Vitest</code>
+  <code>GitHub Actions</code>
+  <code>Render</code>
+</p>
+
 <p>
   <a href="https://github.com/JoaoMiguelCosta/farmacia-santa-casa-app">
     <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código no GitHub">
@@ -109,21 +150,39 @@ React Vite CSS Modules Node.js Express Prisma PostgreSQL Vitest GitHub Actions R
   </a>
 </p>
 
-Sunlive Group
-Plataforma institucional multi-brand desenvolvida para representar diferentes marcas e áreas de negócio do grupo Sunlive.
-Principais características
-- Diferentes páginas e identidades visuais
-- Arquitetura baseada em componentes reutilizáveis
-- Rotas próprias para diferentes marcas
-- Componentes e layouts partilhados
-- Isolamento visual por marca
-- Internacionalização
-- Lazy loading
-- Navegação através de âncoras
-- Design responsivo
-- Deploy através da Vercel
-Stack
-React Vite React Router CSS Modules JavaScript ESLint Vercel
+<hr>
+
+<h3>Sunlive Group</h3>
+
+<p>Plataforma institucional multi-brand desenvolvida para representar diferentes marcas e áreas de negócio do grupo Sunlive.</p>
+
+<h4>Principais características</h4>
+
+<ul>
+  <li>Diferentes páginas e identidades visuais</li>
+  <li>Arquitetura baseada em componentes reutilizáveis</li>
+  <li>Rotas próprias para diferentes marcas</li>
+  <li>Componentes e layouts partilhados</li>
+  <li>Isolamento visual por marca</li>
+  <li>Internacionalização</li>
+  <li>Lazy loading</li>
+  <li>Navegação através de âncoras</li>
+  <li>Design responsivo</li>
+  <li>Deploy através da Vercel</li>
+</ul>
+
+<h4>Stack</h4>
+
+<p>
+  <code>React</code>
+  <code>Vite</code>
+  <code>React Router</code>
+  <code>CSS Modules</code>
+  <code>JavaScript</code>
+  <code>ESLint</code>
+  <code>Vercel</code>
+</p>
+
 <p>
   <a href="https://github.com/JoaoMiguelCosta/Sunlive-Group">
     <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código no GitHub">
@@ -133,53 +192,106 @@ React Vite React Router CSS Modules JavaScript ESLint Vercel
   </a>
 </p>
 
-🌐 Outros projetos publicados
-Projeto	Descrição	Código	Website
-Ria Canal Hair Design	Website institucional desenvolvido para um negócio local e publicado num domínio próprio.	GitHub	Visitar
-WAG Training Camp	Website desenvolvido para apresentação e divulgação do evento.	GitHub	Visitar
-Continental Cup	Website desenvolvido para apresentação e divulgação do evento.	GitHub	Visitar
+<hr>
 
+<h2>🌐 Outros projetos publicados</h2>
 
-🎓 Formação
-Full Stack Development
-EDIT — Disruptive Digital Education
-- Formação concluída
-- Média final: 15/20
-- Porto, março de 2024 a novembro de 2024
-⚓ Experiência profissional anterior
-Antes de trabalhar como programador, servi durante aproximadamente seis anos na Marinha Portuguesa, integrando a equipa de navegação do N.R.P. Sagres.
-Esta experiência permitiu-me desenvolver competências relevantes para o contexto profissional:
-- Responsabilidade e disciplina
-- Comunicação e trabalho em equipa
-- Capacidade de adaptação
-- Resolução de problemas
-- Trabalho sob pressão
-📬 Contacto
+<table>
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>Código</th>
+      <th>Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Ria Canal Hair Design</strong></td>
+      <td>Website institucional desenvolvido para um negócio local e publicado num domínio próprio.</td>
+      <td><a href="https://github.com/JoaoMiguelCosta/RiaCanalHairDesign">GitHub</a></td>
+      <td><a href="https://www.riacanalhairdesign.pt/">Visitar</a></td>
+    </tr>
+    <tr>
+      <td><strong>WAG Training Camp</strong></td>
+      <td>Website desenvolvido para apresentação e divulgação do evento.</td>
+      <td><a href="https://github.com/JoaoMiguelCosta/wag-training-camp-sunlive">GitHub</a></td>
+      <td><a href="https://www.wagtrainingcamp.sunlive.pt/">Visitar</a></td>
+    </tr>
+    <tr>
+      <td><strong>Continental Cup</strong></td>
+      <td>Website desenvolvido para apresentação e divulgação do evento.</td>
+      <td><a href="https://github.com/JoaoMiguelCosta/continental-cup-sunlive">GitHub</a></td>
+      <td><a href="https://continentalcup.sunlive.pt/">Visitar</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2>🎓 Formação</h2>
+
+<h3>Full Stack Development</h3>
+
+<p><strong>EDIT — Disruptive Digital Education</strong></p>
+
+<ul>
+  <li>Formação concluída</li>
+  <li>Média final: <strong>15/20</strong></li>
+  <li>Porto, março de 2024 a novembro de 2024</li>
+</ul>
+
+<hr>
+
+<h2>⚓ Experiência profissional anterior</h2>
+
+<p>Antes de trabalhar como programador, servi durante aproximadamente seis anos na <strong>Marinha Portuguesa</strong>, integrando a equipa de navegação do N.R.P. Sagres.</p>
+
+<p>Esta experiência permitiu-me desenvolver competências relevantes para o contexto profissional:</p>
+
+<ul>
+  <li>Responsabilidade e disciplina</li>
+  <li>Comunicação e trabalho em equipa</li>
+  <li>Capacidade de adaptação</li>
+  <li>Resolução de problemas</li>
+  <li>Trabalho sob pressão</li>
+</ul>
+
+<hr>
+
+<h2>📬 Contacto</h2>
+
 <div align="center">
 
-Estou disponível para oportunidades profissionais e projetos freelance nas áreas de:
-Frontend Web Development · Full-Stack Web Development · Websites e aplicações web
+<p>Estou disponível para <strong>oportunidades profissionais</strong> e <strong>projetos freelance</strong> nas áreas de:</p>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/">
-  <img src="https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar no LinkedIn">
-</a>
-<a href="mailto:joaoxxmiguel@hotmail.com">
-  <img src="https://img.shields.io/badge/Enviar_email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email">
-</a>
+<p><strong>Frontend Web Development · Full-Stack Web Development · Websites e aplicações web</strong></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/">
+    <img src="https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar no LinkedIn">
+  </a>
+  <a href="mailto:joaoxxmiguel@hotmail.com">
+    <img src="https://img.shields.io/badge/Enviar_email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email">
+  </a>
+</p>
 
 </div>
+
+<hr>
 
 <details>
 <summary><strong>🇬🇧 Read the English version</strong></summary>
 
+<br>
 
 <div align="center">
 
-João Costa
-Full-Stack Web Developer
-<p>
-  I develop websites and web applications focused on real business requirements.
-</p>
+<h1>João Costa</h1>
+
+<h3>Full-Stack Web Developer</h3>
+
+<p>I develop websites and web applications focused on real business requirements.</p>
 
 <p>
   <a href="https://joaomiguelcosta.pt/">
@@ -201,22 +313,37 @@ Full-Stack Web Developer
 
 </div>
 
-👨‍💻 About me
-I am a Full-Stack Web Developer, working as a freelancer since January 2025.
-I develop websites and web applications, handling the complete project lifecycle:
-- Requirements gathering
-- Planning and architecture
-- Frontend and backend development
-- Database modelling and management
-- REST API development and integration
-- Testing and validation
-- Deployment and environment configuration
-- Maintenance and support
-I have practical experience developing management platforms, institutional websites and websites for real businesses and events.
-I am looking to join a team where I can apply this experience, continue improving my technical skills and contribute to products with real impact.
-I am also available for freelance projects, from institutional websites to complete web applications.
-🛠️ Technologies
-Frontend
+<hr>
+
+<h2>👨‍💻 About me</h2>
+
+<p>I am a <strong>Full-Stack Web Developer</strong>, working as a freelancer since January 2025.</p>
+
+<p>I develop websites and web applications, handling the complete project lifecycle:</p>
+
+<ul>
+  <li>Requirements gathering</li>
+  <li>Planning and architecture</li>
+  <li>Frontend and backend development</li>
+  <li>Database modelling and management</li>
+  <li>REST API development and integration</li>
+  <li>Testing and validation</li>
+  <li>Deployment and environment configuration</li>
+  <li>Maintenance and support</li>
+</ul>
+
+<p>I have practical experience developing management platforms, institutional websites and websites for real businesses and events.</p>
+
+<p>I am looking to join a team where I can apply this experience, continue improving my technical skills and contribute to products with real impact.</p>
+
+<p>I am also available for <strong>freelance projects</strong>, from institutional websites to complete web applications.</p>
+
+<hr>
+
+<h2>🛠️ Technologies</h2>
+
+<h3>Frontend</h3>
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
@@ -226,21 +353,24 @@ Frontend
   <img src="https://img.shields.io/badge/CSS_Modules-111827?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules">
 </p>
 
-Backend
+<h3>Backend</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" alt="REST API">
 </p>
 
-Databases
+<h3>Databases</h3>
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
 </p>
 
-Quality, testing and delivery
+<h3>Quality, testing and delivery</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -250,7 +380,8 @@ Quality, testing and delivery
   <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render">
 </p>
 
-Currently learning and improving
+<h3>Currently learning and improving</h3>
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -258,23 +389,45 @@ Currently learning and improving
   <img src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code">
 </p>
 
-🚀 Featured projects
-Farmácia Santa Casa
-A Full-Stack platform developed to manage processes between a pharmacy, a charitable institution and the system administration team.
-Main features
-- JWT authentication
-- Role-based access control
-- Patient and prescription management
-- Requests between organisations
-- Validations and regularisations
-- Operation history
-- Alert system
-- User management
-- Scheduled automated tasks
-- Integration tests
-- Continuous integration with GitHub Actions
-Stack
-React Vite CSS Modules Node.js Express Prisma PostgreSQL Vitest GitHub Actions Render
+<hr>
+
+<h2>🚀 Featured projects</h2>
+
+<h3>Farmácia Santa Casa</h3>
+
+<p>A Full-Stack platform developed to manage processes between a pharmacy, a charitable institution and the system administration team.</p>
+
+<h4>Main features</h4>
+
+<ul>
+  <li>JWT authentication</li>
+  <li>Role-based access control</li>
+  <li>Patient and prescription management</li>
+  <li>Requests between organisations</li>
+  <li>Validations and regularisations</li>
+  <li>Operation history</li>
+  <li>Alert system</li>
+  <li>User management</li>
+  <li>Scheduled automated tasks</li>
+  <li>Integration tests</li>
+  <li>Continuous integration with GitHub Actions</li>
+</ul>
+
+<h4>Stack</h4>
+
+<p>
+  <code>React</code>
+  <code>Vite</code>
+  <code>CSS Modules</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>Prisma</code>
+  <code>PostgreSQL</code>
+  <code>Vitest</code>
+  <code>GitHub Actions</code>
+  <code>Render</code>
+</p>
+
 <p>
   <a href="https://github.com/JoaoMiguelCosta/farmacia-santa-casa-app">
     <img src="https://img.shields.io/badge/View_source_code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View source code">
@@ -284,21 +437,39 @@ React Vite CSS Modules Node.js Express Prisma PostgreSQL Vitest GitHub Actions R
   </a>
 </p>
 
-Sunlive Group
-A multi-brand institutional platform developed to represent the different brands and business areas of the Sunlive Group.
-Main characteristics
-- Multiple pages and visual identities
-- Reusable component architecture
-- Dedicated routes for different brands
-- Shared components and layouts
-- Visual isolation between brands
-- Internationalisation
-- Lazy loading
-- Anchor-based navigation
-- Responsive design
-- Deployment through Vercel
-Stack
-React Vite React Router CSS Modules JavaScript ESLint Vercel
+<hr>
+
+<h3>Sunlive Group</h3>
+
+<p>A multi-brand institutional platform developed to represent the different brands and business areas of the Sunlive Group.</p>
+
+<h4>Main characteristics</h4>
+
+<ul>
+  <li>Multiple pages and visual identities</li>
+  <li>Reusable component architecture</li>
+  <li>Dedicated routes for different brands</li>
+  <li>Shared components and layouts</li>
+  <li>Visual isolation between brands</li>
+  <li>Internationalisation</li>
+  <li>Lazy loading</li>
+  <li>Anchor-based navigation</li>
+  <li>Responsive design</li>
+  <li>Deployment through Vercel</li>
+</ul>
+
+<h4>Stack</h4>
+
+<p>
+  <code>React</code>
+  <code>Vite</code>
+  <code>React Router</code>
+  <code>CSS Modules</code>
+  <code>JavaScript</code>
+  <code>ESLint</code>
+  <code>Vercel</code>
+</p>
+
 <p>
   <a href="https://github.com/JoaoMiguelCosta/Sunlive-Group">
     <img src="https://img.shields.io/badge/View_source_code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View source code">
@@ -308,40 +479,91 @@ React Vite React Router CSS Modules JavaScript ESLint Vercel
   </a>
 </p>
 
-🌐 Other published projects
-Project	Description	Code	Website
-Ria Canal Hair Design	Institutional website developed for a local business and published on its own domain.	GitHub	Visit
-WAG Training Camp	Website developed to present and promote the event.	GitHub	Visit
-Continental Cup	Website developed to present and promote the event.	GitHub	Visit
+<hr>
 
+<h2>🌐 Other published projects</h2>
 
-🎓 Education
-Full Stack Development
-EDIT — Disruptive Digital Education
-- Course completed
-- Final grade: 15/20
-- Porto, March 2024 to November 2024
-⚓ Previous professional experience
-Before working as a developer, I served for approximately six years in the Portuguese Navy, as part of the navigation team aboard the N.R.P. Sagres.
-This experience allowed me to develop skills that are relevant in a professional context:
-- Responsibility and discipline
-- Communication and teamwork
-- Adaptability
-- Problem solving
-- Working under pressure
-📬 Contact
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Code</th>
+      <th>Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Ria Canal Hair Design</strong></td>
+      <td>Institutional website developed for a local business and published on its own domain.</td>
+      <td><a href="https://github.com/JoaoMiguelCosta/RiaCanalHairDesign">GitHub</a></td>
+      <td><a href="https://www.riacanalhairdesign.pt/">Visit</a></td>
+    </tr>
+    <tr>
+      <td><strong>WAG Training Camp</strong></td>
+      <td>Website developed to present and promote the event.</td>
+      <td><a href="https://github.com/JoaoMiguelCosta/wag-training-camp-sunlive">GitHub</a></td>
+      <td><a href="https://www.wagtrainingcamp.sunlive.pt/">Visit</a></td>
+    </tr>
+    <tr>
+      <td><strong>Continental Cup</strong></td>
+      <td>Website developed to present and promote the event.</td>
+      <td><a href="https://github.com/JoaoMiguelCosta/continental-cup-sunlive">GitHub</a></td>
+      <td><a href="https://continentalcup.sunlive.pt/">Visit</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2>🎓 Education</h2>
+
+<h3>Full Stack Development</h3>
+
+<p><strong>EDIT — Disruptive Digital Education</strong></p>
+
+<ul>
+  <li>Course completed</li>
+  <li>Final grade: <strong>15/20</strong></li>
+  <li>Porto, March 2024 to November 2024</li>
+</ul>
+
+<hr>
+
+<h2>⚓ Previous professional experience</h2>
+
+<p>Before working as a developer, I served for approximately six years in the <strong>Portuguese Navy</strong>, as part of the navigation team aboard the N.R.P. Sagres.</p>
+
+<p>This experience allowed me to develop skills that are relevant in a professional context:</p>
+
+<ul>
+  <li>Responsibility and discipline</li>
+  <li>Communication and teamwork</li>
+  <li>Adaptability</li>
+  <li>Problem solving</li>
+  <li>Working under pressure</li>
+</ul>
+
+<hr>
+
+<h2>📬 Contact</h2>
+
 <div align="center">
 
-I am available for professional opportunities and freelance projects in:
-Frontend Web Development · Full-Stack Web Development · Websites and web applications
+<p>I am available for <strong>professional opportunities</strong> and <strong>freelance projects</strong> in:</p>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/">
-  <img src="https://img.shields.io/badge/Contact_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn">
-</a>
-<a href="mailto:joaoxxmiguel@hotmail.com">
-  <img src="https://img.shields.io/badge/Send_email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email">
-</a>
+<p><strong>Frontend Web Development · Full-Stack Web Development · Websites and web applications</strong></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-costa1/">
+    <img src="https://img.shields.io/badge/Contact_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn">
+  </a>
+  <a href="mailto:joaoxxmiguel@hotmail.com">
+    <img src="https://img.shields.io/badge/Send_email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email">
+  </a>
+</p>
 
 </div>
 
 </details>
+
